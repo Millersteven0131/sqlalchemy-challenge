@@ -88,5 +88,5 @@ def def_temp_range(start,end):
 
 if __name__ == '__main__':
     app.run(debug= True)
-    
+
 
